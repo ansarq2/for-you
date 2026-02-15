@@ -90,5 +90,4 @@ function showConfetti() {
     })
 }
 
-// Initialize
 updateDisplay();
